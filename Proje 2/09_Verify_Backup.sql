@@ -1,0 +1,3 @@
+RESTORE VERIFYONLY FROM DISK = 'C:\Backup\full.bak';
+RESTORE VERIFYONLY FROM DISK = 'C:\Backup\log.trn';
+GO
