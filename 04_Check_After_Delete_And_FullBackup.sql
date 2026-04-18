@@ -1,0 +1,4 @@
+USE BLM4522;
+GO
+
+SELECT * FROM Musteriler;
